@@ -4,8 +4,7 @@
 
 ## About Me
 
-I am Dexlloyd D. Cabuang, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
-
+I am Dexlloyd D. Cabuang, a BS Information Technology student who is interested in coding and database management. I enjoy learning new things about technology and improving my skills. I also like solving problems and finding ways to make things work better. My goal is to gain more knowledge and experience in the IT field.
 ## Education
 
 **BS Information Technology**
