@@ -1,6 +1,6 @@
 # Hi, I'm Dexlloyd D. Cabuang 👋
 
-![Formal Photo](link-ng-formal-photo-mo.jpg)
+![Formal Photo]()
 
 ## About Me
 
