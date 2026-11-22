@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Dexlloyd D. Cabuang 👋
 
-<!--
-**dexlloydcabuang28-byte/dexlloydcabuang28-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Formal Photo](link-ng-formal-photo-mo.jpg)
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am Dexlloyd D. Cabuang, with a flair for coding and database management skills. I thrive on tackling complex problems and crafting elegant solutions. My journey in tech started when I took the BS Information Technology program.
+
+## Education
+
+**BS Information Technology**
+New Era University
+2025 – Present
+
+## Certification
+
+- [Oracle Cloud Infrastructure Certified Foundations Associate](PALITAN-ITO-NG-LINK-NG-CERTIFICATE)
+  *Issued November 20, 2026 · Valid until November 20, 2028*
+
+## Skill Sets
+
+- **Programming:** Java, JavaScript
+- **Databases:** IBM DB2 Cloud
+- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+
+## You May Reach Me At
+
+- **LinkedIn:** [LinkedIn Profile](PALITAN-ITO-NG-LINKEDIN-LINK)
+- **Email:** your-personal-email@gmail.com
