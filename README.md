@@ -26,4 +26,4 @@ New Era University
 ## You May Reach Me At
 
 - **LinkedIn:** [LinkedIn Profile](PALITAN-ITO-NG-LINKEDIN-LINK)
-- **Email:** Dexlloyd Cabuang
+- **Email:** Dexlloydcabuang28@gmail.com
