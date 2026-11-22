@@ -14,6 +14,7 @@ New Era University
 ## Certification
 
 * [Oracle Cloud Infrastructure Certified AI Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=C901A412A5EA28B6290FD95C20BBC8E2F7F2DB17C46B059EE1AF779F31F1E625) *Issued November 21, 2026 - Valid until November 21, 2028*
+* [Oracle AI Database Certified Foundations Associate](https://catalog-education.oracle.com/ords/certview/sharebadge_m?id=6D6DE9AC977C60A85E5B95B3AAEEBE57B332FD966C9A142BA5F2757CBD48A6E6) *Issued November 21, 2026 - Valid until November 21, 2028*
 
 ## Skill Sets
 
