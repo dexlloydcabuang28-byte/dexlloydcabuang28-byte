@@ -19,7 +19,7 @@ New Era University
 
 - **Programming:** Java, JavaScript
 - **Databases:** IBM DB2 Cloud
-- **Tools:** Lucidchart, Jaspersoft Studio, Eclipse, HTML
+- **Tools:** Lucidchart, Visual Studio Code, Eclipse, HTML
 
 ## You May Reach Me At
 
